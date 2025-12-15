@@ -25,3 +25,6 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+## Añadimos la informacion grafica en formato reducido
+* 9ba684c (HEAD -> rama1-NereaSanchez1, origin/rama2-NereaSanchez2, origin/rama1-NereaSanchez1, origin/main, gitlab/main, rama2-NereaSanchez2, main) Añadimos nuestro primer commit
