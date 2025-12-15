@@ -26,5 +26,12 @@ Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
 
+## Añadimos la informacion impresa que resume los remotos
+gitlab  https://gitlab.com/nereasancheztornel/gitlab.git (fetch)
+gitlab  https://gitlab.com/nereasancheztornel/gitlab.git (push)
+origin  https://github.com/NereaSanchez77/backend.git (fetch)
+origin  https://github.com/NereaSanchez77/backend.git (push)
+
 ## Añadimos la informacion grafica en formato reducido
 * 9ba684c (HEAD -> rama1-NereaSanchez1, origin/rama2-NereaSanchez2, origin/rama1-NereaSanchez1, origin/main, gitlab/main, rama2-NereaSanchez2, main) Añadimos nuestro primer commit
+
